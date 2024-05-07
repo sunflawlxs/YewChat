@@ -11,3 +11,8 @@ Kelas: Pemrograman Lanjut - A<br>
 ###### 3.1. Original code.
 ![](images/images1.png) 
 ![](images/images2.png)  
+
+<br>
+
+###### 3.2. Add some creativities to the webclient.
+![](images/images3.png)  
